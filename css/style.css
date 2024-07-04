@@ -1,0 +1,626 @@
+body{
+    color:#9F9F9F ;
+}
+/* =========================================== */
+/* home */
+/* =========================================== */
+.boster{
+    background-image:url(../image/bg.jpg) ;
+    background-size: cover;
+    height: 100vh;
+    /* background-attachment: fixed; */
+}
+.overlay{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.logo{
+    font-size: 50px;
+    font-weight: 900;
+}
+.wright{
+    font-size: 44px;
+    font-weight: 100;
+}
+.content .icons i{
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+}
+.wright::after{
+    content:"";
+    font-weight: 600;
+    animation-name: typing ;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+}
+@keyframes typing{
+    0%{
+        content: "";
+    }
+    1%{
+        content: "";
+    }
+    2%{
+        content: "";
+    }
+    3%{
+        content: "";
+    }
+    4%{
+        content: "";
+    }
+    5%{
+        content: "";
+    }
+    6%{
+        content: "";
+    }
+    7%{
+        content: "";
+    }
+    8%{
+        content: "";
+    }
+    9%{
+        content: "";
+    }
+    10%{
+        content: "";
+    }
+    11%{
+        content: "";
+    }
+    12%{
+        content: "";
+    }
+    13%{
+        content: "";
+    }
+    14%{
+        content: "";
+    }
+    15%{
+        content: "";
+    }
+    16%{
+        content: "";
+    }
+    17%{
+        content: "";
+    }
+    18%{
+        content: "D|";
+    }
+    19%{
+        content: "De|";
+    }
+    20%{
+        content: "Dev|";
+    }
+    21%{
+        content: "Deve|";
+    }
+    22%{
+        content: "Devel|";
+    }
+    23%{
+        content: "Develo|";
+    }
+    24%{
+        content: "Develop|";
+    }
+    25%{
+        content: "Develope|";
+    }
+    26%{
+        content: "Developer|";
+    }
+    27%{
+        content: "Developer|";
+    }
+    28%{
+        content: "Developer|";
+    }
+    29%{
+        content: "Developer|";
+    }
+    30%{
+        content: "Developer|";
+    }
+    31%{
+        content: "Developer|";
+    }
+    32%{
+        content: "Develope|";
+    }
+    33%{
+        content: "Develop|";
+    }
+    34%{
+        content: "Develo|";
+    }
+    35%{
+        content: "Devel|";
+    }
+
+    36%{
+        content: "Deve|";
+    }
+    37%{
+        content: "Dev|";
+    }
+    38%{
+        content: "De|";
+    }
+    39%{
+        content: "D|";
+    }
+    40%{
+        content: "";
+    }
+    41%{
+        content: "D|";
+    }
+    42%{
+        content: "De|";
+    }
+    43%{
+        content: "Des|";
+    }
+    44%{
+        content: "Desi|";
+    }
+    45%{
+        content: "Desig|";
+    }
+    46%{
+        content: "Design|";
+    }
+    47%{
+       content: "Designe|";
+    }
+    48%{
+        content: "Designer|";
+    }
+    49%{
+        content: "Designer|";
+    }
+    50%{
+        content: "Designer|";
+    }
+    51%{
+        content: "Designer|";
+    }
+    52%{
+        content: "Designer|";
+    }
+    53%{
+        content: "Designer|";
+    } 
+    54%{
+        content: "Designe|";
+    } 
+    55%{
+        content: "Design|";
+    }
+    56%{
+        content: "Desig|";
+    }
+    57%{
+        content: "Desi|";
+    }
+    58%{
+        content: "Des|";
+    }
+    59%{
+        content: "De|";
+    }
+    60%{
+        content: "D|";
+    }
+    61%{
+        content: "L|";
+    }
+    62%{
+        content: "La|";
+    }
+    63%{
+        content: "Lar|";
+    }
+    64%{
+        content: "Larr|";
+    }
+    65%{
+        content: "Larry|";
+    }
+    66%{
+      content: "Larry |";
+    }
+    67%{
+        content: "Larry D|";
+    }
+    68%{
+        content: "Larry Da|";
+    }
+    69%{
+        content: "Larry Dan|";
+    }
+    70%{
+        content: "Larry Dani|";
+    }
+    71%{
+        content: "Larry Danie|";
+    }
+    72%{
+        content: "Larry Daniel|";
+    }
+    73%{
+        content: "Larry Daniels|";
+    }
+    74%{
+        content: "Larry Daniels|";
+    }
+    75%{
+        content: "Larry Daniels|";
+    }
+    76%{
+        content: "Larry Daniels|";
+    }
+    77%{
+        content: "Larry Daniels|";
+    }
+    78%{
+        content: "Larry Daniels|";
+    }
+    79%{
+        content: "Larry Daniels|";
+    }
+    80%{
+        content: "Larry Daniels|";
+    }
+    81%{
+        content: "Larry Daniels|";
+    }
+    82%{
+        content: "Larry Daniels|";
+    }
+    83%{
+        content: "Larry Daniels|";
+    }
+    84%{
+        content: "Larry Daniel|";
+    }
+    85%{
+        content: "Larry Danie|";
+    }
+    86%{
+        content: "Larry Dani|";
+    }
+    87%{
+        content: "Larry Dan|";
+    }
+    88%{
+        content: "Larry Da|";
+    }
+    89%{
+        content: "Larry D|";
+    }
+    90%{
+        content: "Larry |";
+    }
+    91%{
+        content: "Larr|";
+    }
+    92%{
+        content: "Lar|";
+    }
+    93%{
+        content: "La|";
+    }
+    94%{
+        content: "L|";
+    }
+}
+/* =========================================== */
+/* about */
+/* =========================================== */
+.font{
+    font-family: 'Alegreya', serif;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Amatic SC', sans-serif;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.img::after{
+    content: "";
+    background-image: url(../image/dots.png);
+    background-repeat: repeat;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 30px;
+    left: -25px;
+    z-index: -1;
+}
+.jerry{
+    color: rgba(0, 0, 0, 0.685);
+    /* background-color: ; */
+}
+.Web-Design{
+    width: 95%;
+    animation-name: Web-Design;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    /* border-radius:0px 10px  ; */
+}
+@keyframes Web-Design{
+    0%{
+        width: 30%;
+    }
+    100%{
+        width: 95%;
+    }
+}
+.progress{
+    height: 24px;
+}
+.Branding{
+    width: 80%;
+    animation-name: Branding;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+}
+@keyframes Branding{
+    0%{
+        width: 30%;
+    }
+    100%{
+        width: 80%;
+    }
+}
+.Development{
+    width: 90%;
+    animation-name: Development;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+}
+@keyframes Development{
+    0%{
+        width: 30%;
+    }
+    100%{
+        width: 90%;
+    }
+}
+/* =========================================== */
+/* portfolio  */
+/* =========================================== */
+#Works{
+    padding: 40px 0;
+}
+.portfolio-text{
+    width: 19%;
+
+}
+.portfolio-padding{
+    padding: 50px 0;
+}
+.portfolio-text h2{
+    font-size: 40px;
+    font-weight: 900;
+    color: black;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+ h2::after{
+    content: "";
+    background-image: url(../image/dots.png);
+    background-repeat: repeat;
+    height: 30px;
+    width: 200px;
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    z-index: -1;
+}
+.span::after {
+    content: "";
+    background-color: black;
+    width: 0px;
+    height: 2px;
+    position: absolute;
+    top: 20px; 
+    left: 15px;   
+    transition: width 1s;
+}
+
+.active::after {
+    width: 75%;
+}
+
+
+.image .add{
+    background-color: white;
+    width: 95%;
+    height: 95%;
+    position: absolute;
+    top: 20px;
+    opacity: 0;
+    transition: all 0.5s;
+}
+.image .add:hover{
+    top: 0px;
+    opacity: 100%;
+}
+.image .add h4{
+transform: translateY(-20px);  
+opacity: 0; 
+transition: all 0.7s;
+font-size: 14px;
+}
+.image .add:hover h4{
+    transform: translateY(0px);  
+    opacity: 100%; 
+}
+.image .add h3{
+    transform: translateY(30px);  
+    opacity: 0; 
+    transition: all 0.7s;
+    margin-top: -20px;
+    font-size: 10px;
+}
+.image .add:hover h3{
+        transform: translateY(20px);  
+        opacity: 100%; 
+}
+.image .add i{
+    background-color: black;
+    color: #f0fcff;  
+}
+.image .add h3:hover i 
+{          
+    background-color: #f0fcff;
+    color: black;
+} 
+/* =========================== */
+/*  services  */
+/* =========================== */
+#Services{
+background-color: #f7f7f788;
+padding-top:40px ;
+
+}
+.cards1 .icons{
+    background-color: rgba(0, 0, 0, 0.041); 
+    transition: all 0.5s;
+}
+.cards1:hover .icons{
+    background-color: black;
+    color: white;
+}
+.card-title{
+    font-size: 18px;
+    font-weight: 900;
+}
+.card-text{
+    font-size: 16px;
+
+} 
+/* ============================== */
+
+#Clients{
+    height: 90vh;
+    background-color: #f7f7f788;
+}
+.img-testimonial{
+    width: 10%;
+}
+.indicators [data-bs-target]{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: black;
+}
+.Customer{
+    font-size: 13px;
+}
+
+.Testimonials::after{
+    content: "";
+    background-image: url(../image/dots.png);
+    background-repeat: repeat;
+    height: 30px;
+    width: 240px;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    z-index: -1;
+}
+.carousel-item {
+    color: #7D898A;
+
+}
+m
+
+
+/* ===================================== */
+.hover .icon1{
+    background-color: rgba(0, 0, 0, 0.041); 
+    transition: all 0.5s;
+}
+.hover:hover .icon1{
+    background-color: black;
+    color: white;
+}
+
+
+/* =================================== */
+/* #contact{
+    padding: 0 0 50px 0;
+} */
+.area{
+    width: 100%;
+}
+.back{
+    background-color: rgba(0, 0, 0, 0.199);
+    
+}
+.submit{
+   width: 100px;
+    font-size: 14px;
+    color: white;
+    background-color:black ;
+    transition: all 0.5s;
+}
+.submit:hover{
+    color: black;
+    background-color:white;
+}
+
+.focus{
+    outline: none;
+}
+
+.navbar{
+    background-color: white;
+    transition: all 0.5s;
+}
+.arrowUpAndDown{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+    display: none;
+    cursor: pointer;
+ 
+}
+
+.layer{
+    background-color: #7D898A;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999999;
+    display:flex;
+    align-items: center;
+    
+}
+body{
+    overflow: hidden;
+}
+
